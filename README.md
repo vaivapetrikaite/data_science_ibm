@@ -1,1 +1,3 @@
-# data_science_ibm
+# Content
+
+This folder contains all the noteboks and the presentation for the capstone project of the Data Science (Coursera + IBM)
